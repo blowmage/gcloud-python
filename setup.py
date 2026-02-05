@@ -15,7 +15,7 @@ REQUIREMENTS = [
     'google-apitools',
     'httplib2 >= 0.9.1',
     'oauth2client >= 1.4.6',
-    'protobuf == 3.0.0-alpha-1',
+    'protobuf == 5.29.6',
     'pycrypto',
     'pytz',
     'six',
